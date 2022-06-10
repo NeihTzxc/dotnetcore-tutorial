@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj": {}
+    "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolutionData\\eShopSolutionData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj": {
+    "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolutionData\\eShopSolutionData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
-        "projectName": "eShopSolution.WebApp",
-        "projectPath": "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolutionData\\eShopSolutionData.csproj",
+        "projectName": "eShopSolutionData",
+        "projectPath": "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolutionData\\eShopSolutionData.csproj",
         "packagesPath": "C:\\Users\\Thien Nguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolution.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Thien Nguyen\\Documents\\Project\\eShopSolution\\eShopSolutionData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thien Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,9 +50,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
